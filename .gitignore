@@ -1,0 +1,17 @@
+# Python environment
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+
+# Database & Credentials
+.secrets
+alembic.ini
+
+# Local uploads (The videos you test with)
+static/
+
+# OS files
+.DS_Store
+Thumbs.db

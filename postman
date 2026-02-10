@@ -1,0 +1,3 @@
+for go to posts for user and create user. For this send username and password in json in body.
+Then go to login to body to x-www..something and give username and password
+You will get token. Go to any request and in authoriation, in bearer token give this and send requests
